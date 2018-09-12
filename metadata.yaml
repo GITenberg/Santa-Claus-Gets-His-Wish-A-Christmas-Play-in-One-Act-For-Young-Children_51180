@@ -1,11 +1,16 @@
 _repo: Santa-Claus-Gets-His-Wish-A-Christmas-Play-in-One-Act-For-Young-Children_51180
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51180-h/images/cover.jpg
 creator:
   author:
     agent_name: Fisher, Blanche Proctor
     gutenberg_agent_id: '46279'
     url: http://www.gutenberg.org/2009/agents/46279
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51180#Santa-Claus-Gets-His-Wish-A-Christmas-Play-in-One-Act-For-Young-Children
 gutenberg_issued: '2016-02-11'
 gutenberg_type: Text
 identifiers:
